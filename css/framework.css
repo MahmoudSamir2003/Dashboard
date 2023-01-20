@@ -32,8 +32,14 @@
   .block-mobile {
     display: block;
   }
+  .d-inline-block{
+    display: inline-block;
+  }
   .hide-mobile {
     display: none;
+  }
+  .mbo-10 {
+    margin-bottom: 10px;
   }
 }
 /* End Box */
